@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Faster One';
+    src: url('/fonts/FasterOne-Regular.woff2') format('woff2'),
+         url('/fonts/FasterOne-Regular.woff') format('woff'),
+         url('/fonts/FasterOne-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Faster One', sans-serif; /* Use the custom font */
+}
